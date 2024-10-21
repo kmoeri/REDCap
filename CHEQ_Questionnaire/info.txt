@@ -1,0 +1,2 @@
+This folder contains the original images used by the CHEQ questionnaire: https://www.cheq.se/questionnaire
+The sole purpose of this folder is to provide an immutable link between the CHEQ images and the REDCap questionniare.
